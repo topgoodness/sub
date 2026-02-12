@@ -1,4 +1,4 @@
 vless://5968988d-e3a2-4a77-88c4-6617be114bc5@23.249.18.164:11111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aia.com.hk&fp=chrome&pbk=AP7H1dhsiprwyH56aHabTRvDcKEHy--gxIutGYD2ACo&sid=88&type=tcp&headerType=none#HK.Co.Reality
-vless://1e8568d7-66e4-4bd0-b7e4-0e753378fcc9@23.249.25.246:11111?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.smbc.co.jp&fp=chrome&pbk=t_cWEskVprJAtzXuA7vtNyxfdcKfSZIM0OhZsNwoVRA&sid=88&type=tcp&headerType=none#JP.Lite.Micro
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206S203ek10MGUrOG1UNWlCRTlQUkdHZz09@121.4.82.73:13485?#Po0.Micro
+vless://b4ed6f79-b1c5-4842-a6c7-7305fa953191@23.249.25.246:13485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.smbc.co.jp&fp=chrome&pbk=cVd4gru3f4EsZiBZ_D0YzbCR5ThRbFiNiJWSyt5CcGk&sid=88&type=tcp&headerType=none#JP.Lite.Micro
+vless://b4ed6f79-b1c5-4842-a6c7-7305fa953191@121.4.82.73:13485?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.smbc.co.jp&fp=chrome&pbk=cVd4gru3f4EsZiBZ_D0YzbCR5ThRbFiNiJWSyt5CcGk&sid=88&type=tcp&headerType=none#Po0.Micro
 vless://5968988d-e3a2-4a77-88c4-6617be114bc5@121.4.82.73:22222?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aia.com.hk&fp=chrome&pbk=AP7H1dhsiprwyH56aHabTRvDcKEHy--gxIutGYD2ACo&sid=88&type=tcp&headerType=none#Po0.Mini
